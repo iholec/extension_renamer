@@ -1,0 +1,7 @@
+D:\MeinZeugs\Programmieren\Extension_Renamer\Extension_Renamer\bin\Debug\Extension_Renamer.exe.config
+D:\MeinZeugs\Programmieren\Extension_Renamer\Extension_Renamer\bin\Debug\Extension_Renamer.exe
+D:\MeinZeugs\Programmieren\Extension_Renamer\Extension_Renamer\bin\Debug\Extension_Renamer.pdb
+D:\MeinZeugs\Programmieren\Extension_Renamer\Extension_Renamer\obj\Debug\Extension_Renamer.csprojResolveAssemblyReference.cache
+D:\MeinZeugs\Programmieren\Extension_Renamer\Extension_Renamer\obj\Debug\Extension_Renamer.csproj.CoreCompileInputs.cache
+D:\MeinZeugs\Programmieren\Extension_Renamer\Extension_Renamer\obj\Debug\Extension_Renamer.exe
+D:\MeinZeugs\Programmieren\Extension_Renamer\Extension_Renamer\obj\Debug\Extension_Renamer.pdb
